@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Avichai</h1>
-<h3 align="center">Hey there, I'm Avi, a computer science student and software engineer on a coding journey. Each bit of code is like solving a puzzle, helping me understand the fascinating world of software. Let's dive into this adventure together and explore the ever-changing landscape of coding! 🚀👩‍💻</h3>
+<h1 align="center">Hi 👋, I'm Avi</h1>
+<h3 align="center">Hey there, I am a computer science graduate and software engineer on a coding journey. Each bit of code is like solving a puzzle, helping me understand the fascinating world of software. Let's dive into this adventure together and explore the ever-changing landscape of coding! 🚀👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avichai11greenblum&label=Profile%20views&color=0e75b6&style=flat" alt="avichai11greenblum" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avichai11greenblum" alt="avichai11greenblum" /></a> </p>
-
+<!--
 <h3 align="left">Connect with me:</h3>
+-->
 <p align="left">
 </p>
 
